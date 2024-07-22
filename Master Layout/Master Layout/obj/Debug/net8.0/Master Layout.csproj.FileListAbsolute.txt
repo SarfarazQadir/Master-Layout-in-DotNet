@@ -1,0 +1,27 @@
+G:\ASP.NET CORE\Master Layout\Master Layout\bin\Debug\net8.0\appsettings.Development.json
+G:\ASP.NET CORE\Master Layout\Master Layout\bin\Debug\net8.0\appsettings.json
+G:\ASP.NET CORE\Master Layout\Master Layout\bin\Debug\net8.0\Master Layout.exe
+G:\ASP.NET CORE\Master Layout\Master Layout\bin\Debug\net8.0\Master Layout.deps.json
+G:\ASP.NET CORE\Master Layout\Master Layout\bin\Debug\net8.0\Master Layout.runtimeconfig.json
+G:\ASP.NET CORE\Master Layout\Master Layout\bin\Debug\net8.0\Master Layout.dll
+G:\ASP.NET CORE\Master Layout\Master Layout\bin\Debug\net8.0\Master Layout.pdb
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.AssemblyInfoInputs.cache
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.AssemblyInfo.cs
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.csproj.CoreCompileInputs.cache
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.MvcApplicationPartsAssemblyInfo.cache
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.RazorAssemblyInfo.cache
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.RazorAssemblyInfo.cs
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\staticwebassets.build.json
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\staticwebassets.development.json
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\staticwebassets\msbuild.Master Layout.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\staticwebassets\msbuild.build.Master Layout.props
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Master Layout.props
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Master Layout.props
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\staticwebassets.pack.json
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\scopedcss\bundle\Master Layout.styles.css
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.dll
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\refint\Master Layout.dll
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.pdb
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\Master Layout.genruntimeconfig.cache
+G:\ASP.NET CORE\Master Layout\Master Layout\obj\Debug\net8.0\ref\Master Layout.dll
